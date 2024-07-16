@@ -23,7 +23,7 @@ const projectData = [
     {
         name: "GRAPHQL-BOOKSHELF (MERN)",
         github_url: "https://github.com/Igimbayeva/GraphQL-Bookshelf",
-        deployed_url: "https://graphql-bookshelf.render.com",
+        deployed_url: "https://graphql-bookshelf.onrender.com",
         img_url: "/booksearch.png"
     }, 
     {
